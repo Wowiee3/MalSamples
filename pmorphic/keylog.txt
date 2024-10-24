@@ -1,1 +1,2 @@
 'c'Key.cmd'1'Key.ctrl't'Key.ctrl'a'Key.backspace'h''e''l''l''o'Key.space'w''o''r''l''d'Key.cmd'2'Key.ctrl'v'Key.ctrl'c'Key.cmd'1''2'Key.ctrl'c'hello
+'d''a''s''k''k''l''a''j''d''k''l''s''j''k''l''j'Key.ctrl'c''h''i''e''v''e''r''o''n''e'Key.escKey.ctrl'c'Key.cmdKey.cmdKey.shift'Q'Key.cmd'2'Key.cmd'3'Key.cmd'2'Key.shiftKey.cmd'Q'Key.cmd'1'Key.shift'T''h''e'Key.space'c''l''e''a''n''e''r'Key.space'h''a''v''e'Key.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspace's'Key.space'h''a''v''e'Key.space'a''r''r''i''v''e''d'Key.enterKey.ctrl'c'
