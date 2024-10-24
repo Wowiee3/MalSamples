@@ -1,0 +1,1 @@
+'c'Key.cmd'1'Key.ctrl't'Key.ctrl'a'Key.backspace'h''e''l''l''o'Key.space'w''o''r''l''d'Key.cmd'2'Key.ctrl'v'Key.ctrl'c'Key.cmd'1''2'Key.ctrl'c'hello
